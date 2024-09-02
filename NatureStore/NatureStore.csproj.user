@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EmployeeEdit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmployeeInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmployeePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProductEdit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProductInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProviderEdit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProviderInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProviderPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SaleInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SalePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SessionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StockPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SupplyInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EmployeeEdit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmployeeInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmployeePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProductEdit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProductInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProviderEdit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProviderInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProviderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SaleInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SalePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SessionPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StockPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SupplyInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

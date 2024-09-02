@@ -1,0 +1,91 @@
+CREATE TABLE "Provider"(
+	"Provider_Id" SERIAL PRIMARY KEY,
+	"Provider_Name" VARCHAR(50) NOT NULL Unique,
+	"Provider_Phone" VARCHAR(50) NOT NULL,
+	"Provider_Email" VARCHAR(50) NOT NULL 
+);
+
+CREATE TABLE "Product"(
+	"Product_Id" SERIAL PRIMARY KEY,
+	"Product_Name" VARCHAR(50) NOT NULL,
+	"Product_Type" VARCHAR(25) NOT NULL,
+	"Product_Amount" INTEGER NOT NULL,
+	"Provider_Key" INTEGER NOT NULL,
+	CONSTRAINT "Provider_Key" FOREIGN KEY ("Provider_Key") REFERENCES "Provider"("Provider_Id"),
+	"Expiration_Date" DATE NOT NULL DEFAULT CURRENT_DATE,
+	"Product_Cost" DECIMAL NOT NULL 
+);
+
+CREATE TABLE "Employee"(
+	"Employee_Id" SERIAL PRIMARY KEY,
+	"Job_Title" VARCHAR(25) NOT NULL,
+	"Employee_Name" VARCHAR(50) NOT NULL Unique,
+	"Login" VARCHAR(25) NOT NULL,
+	"Password" VARCHAR(25) NOT NULL
+);
+
+CREATE TABLE "Turnover"(
+	"Turnover_Id" SERIAL PRIMARY KEY,
+	"Turnover_Date" DATE NOT NULL DEFAULT CURRENT_DATE,
+	"Turnover_Amount" DECIMAL NOT NULL,
+	"Employee_Name" VARCHAR(50) NOT NULL,
+	CONSTRAINT Employee_Name FOREIGN KEY ("Employee_Name") REFERENCES "Employee"("Employee_Name"),
+	"Operation_Type" INTEGER NOT NULL DEFAULT 1
+);
+
+
+CREATE TABLE "Supply"(
+	"Supply_Id" SERIAL PRIMARY KEY,
+	"Supply_Date" DATE NOT NULL DEFAULT CURRENT_DATE,
+	"Provider_Key" INTEGER NOT NULL,
+	CONSTRAINT "Provider_Key" FOREIGN KEY ("Provider_Key") REFERENCES "Provider"("Provider_Id"),
+	"Product" VARCHAR(50) NOT NULL,
+	"Product_Amount" INTEGER NOT NULL 
+);
+
+CREATE TABLE "Supply_Product"(
+	"SuP_Id" SERIAL PRIMARY KEY,
+	"Supply_Key" INTEGER NOT NULL,
+	"Product_Key" INTEGER NOT NULL,
+	CONSTRAINT Supply_Id FOREIGN KEY ("Supply_Key") REFERENCES "Supply"("Supply_Id"),
+	CONSTRAINT Product_Id FOREIGN KEY ("Product_Key") REFERENCES "Product"("Product_Id")
+);
+
+CREATE TABLE "Turnover_Product"(
+	"TP_Id" SERIAL PRIMARY KEY,
+	"Turnover_Key" INTEGER NOT NULL,
+	"Product_Key" INTEGER NOT NULL,
+	"Product_Amount" INTEGER NOT NULL,
+	CONSTRAINT Turnover_Id FOREIGN KEY ("Turnover_Key") REFERENCES "Turnover"("Turnover_Id"),
+	CONSTRAINT Product_Id FOREIGN KEY ("Product_Key") REFERENCES "Product"("Product_Id")
+);
+
+
+
+
+INSERT INTO "Provider"("Provider_Name", "Provider_Phone", "Provider_Email") Values
+('ООО "Зёлное поле"', 89523447544, 'pole@mail.ru');
+
+
+INSERT INTO "Product"("Product_Name", "Product_Type", "Provider_Key", "Product_Amount", "Expiration_Date", "Product_Cost") Values
+('Огурцы 1 кг.', 'Овощи', 1, 10, '07.06.2023', 105),
+('Помидоры 1 кг.', 'Овощи', 1, 10, '07.06.2023', 85),
+('Картофель 1 кг.', 'Овощи', 1, 10, '07.06.2023', 65);
+
+INSERT INTO "Employee"("Job_Title", "Employee_Name", "Login", "Password") Values
+('Администратор', 'Иванов Сергей Иванович', 'Ivan11', '11Ivan'),
+('Продавец', 'Шилов Дмитрий Андреевич', 'Dimas1k', 'Dimas1k');
+
+INSERT INTO "Turnover"("Turnover_Date", "Turnover_Amount", "Employee_Name") Values
+('07.06.2023', 250, 'Иванов Сергей Иванович'),
+('08.06.2023', 2500, 'Шилов Дмитрий Андреевич');
+
+INSERT INTO "Turnover_Product"("Turnover_Key", "Product_Key", "Product_Amount") Values
+(1, 1, 2),
+(1, 2, 3),
+(2, 1, 1),
+(2, 2, 2);
+
+
+INSERT INTO "Supply"("Supply_Date", "Provider_Key", "Product", "Product_Amount") Values
+('07.06.2023', 1, 'Огурцы 1 кг.', 10);

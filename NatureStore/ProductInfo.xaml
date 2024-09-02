@@ -1,0 +1,42 @@
+﻿<Window x:Class="NatureStore.ProductInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NatureStore"
+        mc:Ignorable="d"
+        Title="ProductInfo" Height="650" Width="350" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="0.15*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <TextBlock Margin="5" Foreground="#67d2f0" FontSize="18">Наименование</TextBlock>
+            <TextBox x:Name="Product_Name_View" Margin="5" Foreground="#67d2f0" FontSize="18" ></TextBox>
+            <TextBlock Margin="5" Foreground="#67d2f0" FontSize="18">Категория</TextBlock>
+            <ComboBox x:Name="Product_Type_View" Margin="5" Foreground="#67d2f0" FontSize="18">
+                <ComboBoxItem>Овощи</ComboBoxItem>
+                <ComboBoxItem>Мучное</ComboBoxItem>
+                <ComboBoxItem>Фрукты</ComboBoxItem>
+                <ComboBoxItem>Орехи</ComboBoxItem>
+                <ComboBoxItem>Прочее</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Margin="5" Foreground="#67d2f0" FontSize="18">Стоимость</TextBlock>
+            <TextBox x:Name="Product_Cost_View" Margin="5" Foreground="#67d2f0" FontSize="18"></TextBox>
+            <TextBlock Margin="5" Foreground="#67d2f0" FontSize="18">Срок годности</TextBlock>
+            <TextBox x:Name="Expiration_Date_View" Margin="5" Foreground="#67d2f0" FontSize="18"></TextBox>
+            <TextBlock Margin="5" Foreground="#67d2f0" FontSize="18">Поставщик</TextBlock>
+            <ComboBox x:Name="Provider_Name_View" Margin="5" Foreground="#67d2f0" FontSize="18">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Path=Provider_Name}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Background="#67d2f0">
+            <Button Click="Add_Button_Click" x:Name="Add_Button" Margin="15" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#67d2f0" Background="White" BorderBrush="#2d9bba" BorderThickness="4" FontSize="35">Добавить</Button>
+        </StackPanel>
+    </Grid>
+</Window>

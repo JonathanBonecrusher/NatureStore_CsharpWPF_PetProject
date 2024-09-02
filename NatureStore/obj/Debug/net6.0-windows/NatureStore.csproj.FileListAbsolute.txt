@@ -1,0 +1,476 @@
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+S:\po332\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+S:\po332\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+S:\po332\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2)\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (2) — копия\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyProductAdd.g.cs
+S:\po332\NatureStore (2)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyProductAdd.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore (1)\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+S:\po32\NatureStore V0.9.5\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.exe
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.deps.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.runtimeconfig.json
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore_MarkupCompile.lref
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeeInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\EmployeePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\Login.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProductInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderEdit.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ProviderPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SaleInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SalePage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SessionPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\StockPage.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\SupplyInfo.baml
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.g.resources
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.csproj.CopyComplete
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\refint\NatureStore.dll
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.pdb
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\NatureStore.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Рабочий стол\NatureStore V0.9.8\NatureStore V0.9.8\NatureStore\NatureStore\obj\Debug\net6.0-windows\ref\NatureStore.dll

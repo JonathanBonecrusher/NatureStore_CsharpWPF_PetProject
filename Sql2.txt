@@ -1,0 +1,84 @@
+CREATE TABLE "Provider"(
+	"Provider_Id" SERIAL PRIMARY KEY,
+	"Provider_Name" VARCHAR(50) NOT NULL Unique,
+	"Provider_Phone" VARCHAR(50) NOT NULL,
+	"Provider_Email" VARCHAR(50) NOT NULL 
+);
+
+CREATE TABLE "Product"(
+	"Product_Id" SERIAL PRIMARY KEY,
+	"Product_Name" VARCHAR(50) NOT NULL,
+	"Product_Type" VARCHAR(25) NOT NULL,
+	"Product_Amount" INTEGER NOT NULL DEFAULT 0,
+	"Provider_Key" INTEGER,
+	CONSTRAINT "Provider_Key" FOREIGN KEY ("Provider_Key") REFERENCES "Provider"("Provider_Id") on delete cascade,
+	"Product_Cost" DECIMAL NOT NULL,
+	"Expiration_Date" VARCHAR(25) NOT NULL
+);
+
+CREATE TABLE "Employee"(
+	"Employee_Id" SERIAL PRIMARY KEY,
+	"Job_Title" VARCHAR(25) NOT NULL,
+	"Employee_Name" VARCHAR(50) NOT NULL Unique,
+	"Login" VARCHAR(25) NOT NULL,
+	"Password" VARCHAR(25) NOT NULL
+);
+
+CREATE TABLE "Turnover"(
+	"Turnover_Id" SERIAL PRIMARY KEY,
+	"Turnover_Date" DATE NOT NULL DEFAULT CURRENT_DATE,
+	"Turnover_Amount" DECIMAL NOT NULL,
+	"Employee_Key" INTEGER,
+	CONSTRAINT Employee_Key FOREIGN KEY ("Employee_Key") REFERENCES "Employee"("Employee_Id")on delete set null
+);
+
+
+CREATE TABLE "Supply"(
+	"Supply_Id" SERIAL PRIMARY KEY,
+	"Supply_Date" DATE NOT NULL DEFAULT CURRENT_DATE,
+	"Provider_Key" INTEGER,
+	CONSTRAINT "Provider_Key" FOREIGN KEY ("Provider_Key") REFERENCES "Provider"("Provider_Id") on delete cascade
+);
+
+CREATE TABLE "Supply_Product"(
+	"SuP_Id" SERIAL PRIMARY KEY,
+	"Supply_Key" INTEGER,
+	"Product_Key" INTEGER,
+	CONSTRAINT Supply_Id FOREIGN KEY ("Supply_Key") REFERENCES "Supply"("Supply_Id") on delete cascade,
+	CONSTRAINT Product_Id FOREIGN KEY ("Product_Key") REFERENCES "Product"("Product_Id") on delete cascade,
+	"Product_Amount" INTEGER NOT NULL
+);
+
+CREATE TABLE "Turnover_Product"(
+	"TP_Id" SERIAL PRIMARY KEY,
+	"Turnover_Key" INTEGER,
+	"Product_Key" INTEGER,
+	"Product_Amount" INTEGER,
+	CONSTRAINT Turnover_Id FOREIGN KEY ("Turnover_Key") REFERENCES "Turnover"("Turnover_Id") on delete cascade,
+	CONSTRAINT Product_Id FOREIGN KEY ("Product_Key") REFERENCES "Product"("Product_Id") on delete set null
+);
+
+
+
+INSERT INTO "Provider"("Provider_Name", "Provider_Phone", "Provider_Email") Values
+('ООО "Зёлное поле"', 89523447544, 'pole@mail.ru');
+
+
+INSERT INTO "Product"("Product_Name", "Product_Type", "Product_Amount", "Provider_Key",  "Product_Cost", "Expiration_Date") Values
+('Огурцы 1 кг.', 'Овощи', 10, 1, 105, '2 недели'),
+('Помидоры 1 кг.', 'Овощи', 10, 1, 85, '2 недели'),
+('Картофель 1 кг.', 'Овощи', 10, 1, 65, '2 недели');
+
+INSERT INTO "Employee"("Job_Title", "Employee_Name", "Login", "Password") Values
+('Администратор', 'Иванов Сергей Иванович', 'Ivan11', '11Ivan'),
+('Продавец', 'Шилов Дмитрий Андреевич', 'Dimas1k', 'Dimas1k');
+
+INSERT INTO "Turnover"("Turnover_Date", "Turnover_Amount", "Employee_Key") Values
+('07.06.2023', 250, 1),
+('08.06.2023', 2500, 2);
+
+INSERT INTO "Turnover_Product"("Turnover_Key", "Product_Key", "Product_Amount") Values
+(1, 1, 2),
+(1, 2, 3),
+(2, 1, 1),
+(2, 2, 2);
